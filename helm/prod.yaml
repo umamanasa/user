@@ -7,3 +7,4 @@ schema:
   enabled: true
   DB_TYPE: docdb
 
+replicaCount: 2
